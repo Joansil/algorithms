@@ -1,6 +1,8 @@
-# Kadane
+# Examples of algorithms in Elixir
 
-**TODO: Add description**
+This repo is just to put some examples of algorithms in Elixir.
+For now, just Kadane's Algorithm and a variation of Merge Algorithm, that is a Counter of Swaps to order a sorted array!
+Soon this get some new examples...
 
 ## Installation
 
