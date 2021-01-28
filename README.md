@@ -6,7 +6,7 @@ For now, just:
   
      Kadane's algorithm scans the given array A[1..n] from left to right. In the jth step, it computes the subarray with the largest sum ending at j; this sum is        maintained in variable current_sum. Moreover, it computes the subarray with the largest sum anywhere in A[1..j], maintained in variable best_sum, and easily        obtained as the maximum of all values of current_sum seen so far, cf of the algorithm.
 
-* A counter of swaps to order a sorted array!!!
+* A counter of swaps to order an sorted array!!!
 
 
 
